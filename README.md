@@ -52,7 +52,7 @@ In this **Sales Analytics** project, we analyze a variety of sales and business 
 - **Power BI**: For creating dashboards, visualizing sales data, and reporting.
 - **Power Query**: For data transformation, cleaning, and shaping the data.
 - **DAX (Data Analysis Expressions)**: For creating custom measures and KPIs like **Profit Margin**, **Sales Growth**, and **Profit %**.
-- **SQL Server**: (If applicable) For storing and querying large sales data sets.
+- **SQL Server**: For storing and querying large sales data sets.
 
 ## How to Run the Project:
 
